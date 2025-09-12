@@ -1,0 +1,11 @@
+{
+  "description": "An open-source interface for locally hosted large language model (LLM) inference, testing, and development. Built to experiment with the LLaVA-13B model and API integrations.",
+  "repo": "https://github.com/kearney194/brane-ai",
+  "owner": {
+    "username": "kearney194",
+    "email": "kearney194@hotmail.com"
+  },
+  "record": {
+    "CNAME": "thy-there-roommate-offshore.trycloudflare.com"
+  }
+}
